@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "$Changing to:"    /home/edlantigua/Pictures
+echo "$Changing to:"    /home/edlantigua/Videos
+echo "$current PWD:"    /home/edlantigua/Videos
+echo "$Previous PWD:"  /home/edlantigua/Pictures
+
+echo -e "Long list of /home/edlantigua/cis106 total 16k"
+pwd -mA drwxrwxr-x 2 4.0k 02/0724 $cheatSheets
+echo -e $"drwxrwxr-x" 8 4.0k 02/07/24 $.git
+echo -e $"drwxrwxr-x" 4 4.0k 02/07/24 $labs
+echo -e $"drwxrwxr-x" 4 4.0k 02/07/24 $weeksReports 
+
+echo "Challenge Question Complete"
