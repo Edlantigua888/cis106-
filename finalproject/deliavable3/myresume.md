@@ -1,9 +1,9 @@
-![photo](photo1.jpg)
+![photo](photo.png)
 
  ESMIL D.LANTIGUA 
  
  *Paterson NJ 551 262 7880* *esmil5599@gmai.com*
-
+<hr>
 
  # Professional Summary
 
@@ -42,7 +42,9 @@ English Studies Diploma 2021
 Associate Degree (in progress..)
 2023-present 
 
-# skills 
+# skills
+
+<hr>
 
 **Organizational warehouse management**
 
@@ -52,6 +54,8 @@ Associate Degree (in progress..)
 custmer services communications* 
 
 ## Additioal links
+<hr>
+
 * [ Facebook profile](https://www.facebook.com/esmil.cruz.18/)
 
 * [ Instagram profile](https://www.instagram.com/)
