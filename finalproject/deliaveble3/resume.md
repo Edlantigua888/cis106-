@@ -1,4 +1,4 @@
-t git fetche![photo](pc1.jpg)
+
 
 # Esmil Lantigua 
 
@@ -12,9 +12,9 @@ t git fetche![photo](pc1.jpg)
 
  # Professional Summary
 
-  Material Designation in Warehouse Locations and forklift operator.* Experience with organic gluten free materials 
+  *Material Designation in Warehouse Locations and forklift operator.* Experience with organic gluten free materials 
   Experience with OTC/ API material Experience with Raw Materials Inspector, *system computer knowledge Laboratory notebook knowledge
-  Inspection of materials expired.
+  Inspection of materials expired.*
   <hr>
 
 # Work Experience
@@ -22,14 +22,14 @@ t git fetche![photo](pc1.jpg)
 ENGLEWOOD LAB- TOTOWA,NJ
 OCTUBER 2019 TO MAY 2021**
 
-Material handler, Quality Control inspector
-shipping and receiving raw material
+*Material handler, Quality Control inspector
+shipping and receiving raw material*
  
  **Forklift Operator
  KARI-OUT TOTOWA-NJ
  JUNE 2021 TO PRESENT**
 
-*unloading truck materials picking services to satisfy customer needs
+*Unloading truck materials picking services to satisfy customer needs
 warehouse cycle counter assistant  responder to a warehouse discrepancies with finish good raw materials  item*
 <hr>
 
@@ -37,9 +37,10 @@ warehouse cycle counter assistant  responder to a warehouse discrepancies with f
  
 **Manchester Regional High School**
 
-High School Diploma 2019
+High School Diploma 2018
 
 **Passaic CountyComminity College**
+
 
 English Studies Diploma 2021
 
@@ -50,11 +51,11 @@ Associate Degree (in progress..)
 
 <hr>
 
-**Organizational warehouse management**
+**Organizational Warehouse Management**
 
   *I have more then more four years of experience leading warehouse organization inventory  management solves discrepancies and problems with the  cycle counter system*
 
-*skills with offices 365 and power points,word Excell
+*Skills with offices 365 and power points,word Excell
 customers services communications*
 
 ## Additioal links
@@ -64,4 +65,5 @@ customers services communications*
 * [ Facebook profile](https://www.facebook.com/esmil.cruz.18/)
 
 * [ Instagram profile](https://www.instagram.com/)
-* [second email] (esmil5599@gmail.com)
+
+* [ Email ] (esmil5599@gmail.com)
